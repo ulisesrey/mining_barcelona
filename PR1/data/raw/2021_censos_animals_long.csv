@@ -1,0 +1,21 @@
+_id,CODI_DISTRICTE,NOM_DISTRICTE,SEMESTRE,NUM_ANIMAL
+1,1,Ciutat Vella,1er,3799
+1,1,Ciutat Vella,2on,3869
+2,2,Eixample,1er,10155
+2,2,Eixample,2on,10375
+3,3,Sants-Montjuïc,1er,8962
+3,3,Sants-Montjuïc,2on,9119
+4,4,Les Corts,1er,3790
+4,4,Les Corts,2on,3846
+5,5,Sarrià-Sant Gervasi,1er,6112
+5,5,Sarrià-Sant Gervasi,2on,6243
+6,6,Gràcia,1er,5674
+6,6,Gràcia,2on,5791
+7,7,Horta-Guinardó,1er,7817
+7,7,Horta-Guinardó,2on,7957
+8,8,Nou Barris,1er,8258
+8,8,Nou Barris,2on,8446
+9,9,Sant Andreu,1er,7323
+9,9,Sant Andreu,2on,7499
+10,10,Sant Martí,1er,10048
+10,10,Sant Martí,2on,10268
