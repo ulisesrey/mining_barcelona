@@ -3,6 +3,7 @@ In this project, I mined data of each of the 73 neighborhoods of Barcelona, incl
 
 The project is organized in two self-explanatory jupyter notebooks (with html version). Please go through them, they will guide you throught the project.
 
-Part 1: Contains Aims and Data Analysis (Notebook / Html)
-Part 2: Contains assesment of different models and Conclusions (Notebook / Html)
+* Part 1: Contains Aims and Data Analysis (Notebook / Html)
+
+* Part 2: Contains assesment of different models and Conclusions (Notebook / Html)
 
