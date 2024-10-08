@@ -16,8 +16,8 @@ Orange: Medium
 Red: Low
 
 <p float="left">
-  <img src="image_ground_truth.png" alt="Image 1" width="600" />
-  <img src="image_svd_pred.png" alt="Image 2" width="600" />
+  <img src="image_ground_truth.png" alt="Image 1" width="300" />
+  <img src="image_svd_pred.png" alt="Image 2" width="300" />
 </p>
 
 #<img src="image_svd_pred.png" alt="Barcelona Map" width="800"/>
