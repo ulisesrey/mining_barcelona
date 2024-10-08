@@ -3,7 +3,7 @@ In this project, I mined data of each of the 73 neighborhoods of Barcelona, incl
 
 The project is organized in two self-explanatory jupyter notebooks (with html version). Please go through them, they will guide you throught the project.
 
-* Part 1: Contains Aims and Data Analysis (Notebook / Html)
+* Part 1: Contains Aims and ETL, and primary Data Analysis including PCA ([Notebook](https://github.com/ulisesrey/mining_barcelona/blob/main/PR1/05.584-PRA1_UlisesRey.ipynb) / [Html](https://github.com/ulisesrey/mining_barcelona/blob/main/PR1/05.584-PRA1_UlisesRey.html))
 
-* Part 2: Contains assesment of different models and Conclusions (Notebook / Html)
+* Part 2: Contains assesment of different models and Global conclusions ([Notebook](file:///Users/ulises.rey/local_code/mining_barcelona/PR2/05.584-PRA2_UlisesRey.ipynb) / [Html](file:///Users/ulises.rey/local_code/mining_barcelona/PR2/05.584-PRA2_UlisesRey.html))
 
