@@ -8,8 +8,20 @@ The project is organized in two self-explanatory jupyter notebooks (with html ve
 * Part 2: Contains assesment of different models and global conclusions ([Notebook](https://github.com/ulisesrey/mining_barcelona/blob/main/PR2/05.584-PRA2_UlisesRey.ipynb) / [Html](https://github.com/ulisesrey/mining_barcelona/blob/main/PR2/05.584-PRA2_UlisesRey.html))
 
 
-Example: Prediction of neighborhood income based on all features, using 8 cluster in K-means.
-#![alt text](image.png)
+Example: Prediction of neighborhood income based on all available features, using the best Single Vector Decomposition (SVD) used using GridSearch.
+Income Legend:
+Blue: Very High
+Green High
+Orange: Medium
+Red: Low
 
-<img src="image.png" alt="drawing" width="200"/>
+<p float="left">
+  <img src="image_ground_truth.png" alt="Image 1" width="600" />
+  <img src="image_svd_pred.png" alt="Image 2" width="600" />
+</p>
+
+#<img src="image_svd_pred.png" alt="Barcelona Map" width="800"/>
+SVC Test Accuracy: 0.45
+SVC Test Precision: 0.57
+SVC Test F1_score: 0.48
 
