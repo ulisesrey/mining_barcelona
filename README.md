@@ -23,12 +23,12 @@ Income Legend:
 
   <div style="text-align: center; margin-right: 20px;">
     <p><strong>Ground Truth</strong></p>
-    <img src="image_ground_truth.png" alt="Ground Truth" width="400" />
+    <img src="image_ground_truth.png" alt="Ground Truth" width="300" />
   </div>
 
   <div style="text-align: center;">
     <p><strong>SVC Prediction</strong></p>
-    <img src="image_svd_pred.png" alt="SVD Prediction" width="400" />
+    <img src="image_svd_pred.png" alt="SVD Prediction" width="300" />
   </div>
 
 </div>
