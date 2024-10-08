@@ -21,7 +21,7 @@ Income Legend:
 
 <div style="display: flex; justify-content: space-between;">
 
-  <div style="text-align: center; margin-right: 20px;">
+  <div style="text-align: center;">
     <p><strong>Ground Truth</strong></p>
     <img src="image_ground_truth.png" alt="Ground Truth" width="300" />
   </div>
@@ -33,8 +33,8 @@ Income Legend:
 
 </div>
 
-SVC Test Accuracy: 0.45
-SVC Test Precision: 0.57
-SVC Test F1_score: 0.48
+- SVC Test Accuracy: 0.45
+- SVC Test Precision: 0.57
+- SVC Test F1_score: 0.48
 
 Check the html files for interactive maps!
