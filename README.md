@@ -19,7 +19,7 @@ Income Legend:
 
 
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
 
   <div style="text-align: center;">
     <p><strong>Ground Truth</strong></p>
