@@ -1,5 +1,5 @@
 # Mining Barcelona's neighborhoods
-In this project, I mined data of each of the 73 neighborhoods of Barcelona, including their demographics, the services they have (hospitals, pharmacies) as well as other variables like: extension of green areas, number of hotels, etc., in order to see similitudes or differences between neighborhoods. We also used these indicators to see if we were able to predict the income of these neighborhoods using different models (supervised and unsupervesied), like K-Means, DBSCAN, SVD or Decision Trees.
+In this project, I mined data of each of the 73 neighborhoods of Barcelona, including their demographics, the services they have (hospitals, pharmacies) as well as other variables like: extension of green areas, number of hotels, etc., in order to see similitudes or differences between neighborhoods. I also used these indicators to see if I was able to predict the income of these neighborhoods using different models (supervised and unsupervesied), like K-Means, DBSCAN, SVD or Decision Trees.
 
 The project is organized in two self-explanatory jupyter notebooks (with html version). Please go through them, they will guide you throught the project.
 
